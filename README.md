@@ -32,6 +32,7 @@ Ecogrow : A tree-planting donation system dedicated to reforesting the planet. I
    - **SDG 15: Life on Land**
      
        - SDG 15 is where it aims to protect, restore and promote sustainable use of terrestrial ecosysytem. This also focuses only to ensure the conservation of nature while promoting the sustainable management of forest, biodiversity, and land resources.
+         
        - The program is a donation system centered around tree planting, allowing users to select the type of tree they wish to donate and choose the location for planting. Users can make donations by providing their details, selecting a tree, and specifying the donation amount, with all data recorded for future reference.
 
 ## IV. Instructions for Running the Program 
