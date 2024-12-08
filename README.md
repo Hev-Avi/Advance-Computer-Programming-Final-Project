@@ -55,7 +55,7 @@ Ecogrow : A tree-planting donation system dedicated to reforesting the planet. I
 4. Open and copy the *`EcoGrow.sql`* file 
     - THE ENTIRE SCRIPT SHOULD BE COPIED PROPERLY TO WORK
 
-5. Paste the script from *``EcoGrow.sql* to Command Prompt
+5. Paste the script from *`EcoGrow.sql`* to Command Prompt
    
 7. Run the program:
      - Open the *`Eco Grow Program`* in the Visual Studio Code and run the program using *Ctrl + Alt + N*
