@@ -27,7 +27,7 @@ Ecogrow : A tree-planting donation system dedicated to reforesting the planet. I
    - **Tkinter**:
        - Tkinter was used for creating the Graphical User Interface making it more presentable and easier to interact with the program. GUI offers widget, buttons, label, and tree views for the user interfaces.
 
-## SDG ad Its Integration into the Project
+## SDG and Its Integration into the Project
 
    - **SDG 15: Life on Land**
      
