@@ -43,7 +43,7 @@ Ecogrow : A tree-planting donation system dedicated to reforesting the planet. I
 
 2. Extract the `Ecogrow Files.zip`
      - where it conatains the following:
-         -*`Eco Grow Program`*
+         - *`Eco Grow Program`*
          - *`Ecogrow.py`*
          - *`Ecogrow.sql`*
          - *`README.md`*
