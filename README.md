@@ -39,7 +39,7 @@ Ecogrow : A tree-planting donation system dedicated to reforesting the planet. I
 
 **STEPS:**
 
-1. Download the `EcoGrow Files.zip`.
+1. Download the `EcoGrow Files.zip`
 
 2. Extract the `Ecogrow Files.zip`
      - where it conatains the following:
